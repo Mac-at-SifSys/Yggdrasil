@@ -290,7 +290,7 @@ If you use Yggdrasil in research, please cite:
   author = {McNew, Mac},
   title = {Yggdrasil: A Clifford Algebra Machine Learning Stack},
   year = {2026},
-  url = {https://github.com/SifSystems/yggdrasil}
+  url = {https://github.com/Mac-at-SifSys/Yggdrasil}
 }
 ```
 
